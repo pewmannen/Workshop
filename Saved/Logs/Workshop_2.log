@@ -906,3 +906,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.10-10.31.55:393][ 69]SourceControl:  create mode 100644 README.md
 [2022.02.10-10.31.55:393][ 69]SourceControl:  create mode 100644 Workshop.uproject
 [2022.02.10-10.31.58:148][352]LogSlate: Window 'Source Control Login' being destroyed
+[2022.02.10-10.43.30:451][699]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.10-10.43.30:451][699]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
