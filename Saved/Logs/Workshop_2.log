@@ -908,3 +908,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.10-10.31.58:148][352]LogSlate: Window 'Source Control Login' being destroyed
 [2022.02.10-10.43.30:451][699]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
 [2022.02.10-10.43.30:451][699]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.10-10.44.37:377][347]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'E:/Documents/Unreal Engine Projects/Workshop'
+[2022.02.10-10.44.42:707][347]LogSlate: Window 'Save Level As' being destroyed
+[2022.02.10-10.44.42:778][353]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'E:/Documents/Unreal Engine Projects/Workshop'
+[2022.02.10-10.44.44:177][504]LogRenderer: Reallocating scene render targets to support 1212x808 Format 10 NumSamples 1 (Frame:2555).
+[2022.02.10-10.44.53:436][533]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'E:/Documents/Unreal Engine Projects/Workshop'
+[2022.02.10-10.45.03:066][533]LogSlate: Window 'Save Level As' being destroyed
+[2022.02.10-10.45.03:082][533]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.10-10.45.03:114][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EmptyMap" FILE="../../../../../Unreal Engine Projects/Workshop/Content/EmptyMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.10-10.45.03:120][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.02.10-10.45.03:139][533]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Workshop/Saved/EmptyMap76500FC045C29120EEE141A9AFC71A55.tmp' to '../../../../../Unreal Engine Projects/Workshop/Content/EmptyMap.umap'
+[2022.02.10-10.45.03:403][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EmptyMap_BuiltData" FILE="../../../../../Unreal Engine Projects/Workshop/Content/EmptyMap_BuiltData.uasset" SILENT=true
+[2022.02.10-10.45.03:420][533]LogSavePackage: Moving '../../../../../Unreal Engine Projects/Workshop/Saved/EmptyMap_BuiltDataDBF1BE44412A36A4B59C558404FFE2AC.tmp' to '../../../../../Unreal Engine Projects/Workshop/Content/EmptyMap_BuiltData.uasset'
+[2022.02.10-10.45.03:624][533]LogFileHelpers: Saving map 'EmptyMap' took 0.550
+[2022.02.10-10.45.03:628][533]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.10-10.45.03:628][533]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/EmptyMap_BuiltData.EmptyMap_BuiltData
+[2022.02.10-10.45.03:629][533]LogContentValidation: Display: Validating World /Game/EmptyMap.EmptyMap
+[2022.02.10-10.45.03:665][535]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.10-10.45.03:782][546]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'E:/Documents/Unreal Engine Projects/Workshop'
+[2022.02.10-10.45.08:435][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.02.10-10.45.16:203][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
