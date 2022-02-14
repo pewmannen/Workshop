@@ -982,3 +982,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.14-19.35.26:052][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
 [2022.02.14-19.36.54:985][814]LogSlate: Window 'Save Level As' being destroyed
 [2022.02.14-19.36.57:775][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.02.14-19.38.36:688][954]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/linus/Documents/GitHub/Workshop/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2022.02.14-19.38.37:023][955]LogFileManager: Warning: DeleteFile recovered during retry!
