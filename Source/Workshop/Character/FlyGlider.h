@@ -28,7 +28,7 @@ protected:
 	FRotator FlyCurrentRotation;
 	
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Flying Parameters")
-	FRotator FlyRotationAcceleration;
+	FRotator FlyRotationAcceleration; //How fast can we change our orientation
 
 	//Define values for the max rotation we can do
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Flying Parameters")

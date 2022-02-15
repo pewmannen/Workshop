@@ -45,7 +45,7 @@ void AFlyGlider::Tick(float DeltaTime)
 	Super::Tick(DeltaTime);
 
 	//Only do this calculation per frame if we are flying
-	if (GetCharacterMovement()->MovementMode == MOVE_Flying || GetCharacterMovement()->MovementMode == MOVE_Falling)
+	if (GetCharacterMovement()->MovementMode == MOVE_Flying)
 	{
 		//Update rotation Section based on input//
 
