@@ -989,3 +989,63 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.02.19-11.49.02:633][ 99]LogContentValidation: Display: Validating StaticMesh /Game/Models/Character/PlayerGoldenBall.PlayerGoldenBall
 [2022.02.19-11.49.02:633][ 99]LogContentValidation: Display: Validating Material /Game/Models/Character/Golden_ball.Golden_ball
 [2022.02.19-11.49.04:836][348]LogEditorViewport: Clicking Background
+[2022.02.19-11.52.30:908][499]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.19-11.52.30:926][499]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.19-11.52.36:814][196]LogContentBrowser: Attempting asset rename: NewFolder -> Model_Materials
+[2022.02.19-11.52.36:814][196]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.19-11.52.43:584][814]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Golden_ball4561249D480311271314929D70ACFEE7.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Materials/Model_Materials/Golden_ball.uasset'
+[2022.02.19-11.52.43:646][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.02.19-11.52.43:659][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.02.19-11.52.43:662][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.02.19-11.52.43:675][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Character/PlayerGoldenBall" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Models/Character/PlayerGoldenBall.uasset" SILENT=true
+[2022.02.19-11.52.43:680][814]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/PlayerGoldenBall90EA4F2B4EE21B3422799C9E4D697495.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Models/Character/PlayerGoldenBall.uasset'
+[2022.02.19-11.52.43:836][814]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.19-11.52.43:836][814]LogContentValidation: Display: Validating StaticMesh /Game/Models/Character/PlayerGoldenBall.PlayerGoldenBall
+[2022.02.19-11.52.43:836][814]LogContentValidation: Display: Validating Material /Game/Materials/Model_Materials/Golden_ball.Golden_ball
+[2022.02.19-11.52.47:077][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Model_Materials/Tree_b" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Materials/Model_Materials/Tree_b.uasset" SILENT=true
+[2022.02.19-11.52.47:082][ 34]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Tree_b0253FBAA4FCE471B684CC7A93013018F.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Materials/Model_Materials/Tree_b.uasset'
+[2022.02.19-11.52.47:145][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.02.19-11.52.47:158][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.02.19-11.52.47:162][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.02.19-11.52.47:192][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Character/Tree_04" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Models/Character/Tree_04.uasset" SILENT=true
+[2022.02.19-11.52.47:200][ 34]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Tree_04E80AE7CA4237B098E2916FAAC69384AA.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Models/Character/Tree_04.uasset'
+[2022.02.19-11.52.47:206][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Character/Tree_03" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Models/Character/Tree_03.uasset" SILENT=true
+[2022.02.19-11.52.47:214][ 34]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Tree_03DBC09DDA4660988D0C42B6B1645EE03B.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Models/Character/Tree_03.uasset'
+[2022.02.19-11.52.47:221][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Character/Tree_02" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Models/Character/Tree_02.uasset" SILENT=true
+[2022.02.19-11.52.47:228][ 34]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Tree_020B6D7BF74DC36A04DEC7B191BE1E1CA9.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Models/Character/Tree_02.uasset'
+[2022.02.19-11.52.47:235][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Character/Tree_01" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Models/Character/Tree_01.uasset" SILENT=true
+[2022.02.19-11.52.47:242][ 34]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Tree_018E068E074E47FFDC44F4448F8D4ED8F4.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Models/Character/Tree_01.uasset'
+[2022.02.19-11.52.47:249][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Character/Bush" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Models/Character/Bush.uasset" SILENT=true
+[2022.02.19-11.52.47:256][ 34]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Bush33C2BF524EB28C65EE7F059563A92FAE.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Models/Character/Bush.uasset'
+[2022.02.19-11.52.47:292][ 34]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.19-11.52.47:292][ 34]LogContentValidation: Display: Validating Material /Game/Materials/Model_Materials/Tree_b.Tree_b
+[2022.02.19-11.52.47:292][ 34]LogContentValidation: Display: Validating StaticMesh /Game/Models/Character/Bush.Bush
+[2022.02.19-11.52.47:292][ 34]LogContentValidation: Display: Validating StaticMesh /Game/Models/Character/Tree_01.Tree_01
+[2022.02.19-11.52.47:293][ 34]LogContentValidation: Display: Validating StaticMesh /Game/Models/Character/Tree_02.Tree_02
+[2022.02.19-11.52.47:293][ 34]LogContentValidation: Display: Validating StaticMesh /Game/Models/Character/Tree_03.Tree_03
+[2022.02.19-11.52.47:293][ 34]LogContentValidation: Display: Validating StaticMesh /Game/Models/Character/Tree_04.Tree_04
+[2022.02.19-11.52.49:792][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Model_Materials/Tree_G" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Materials/Model_Materials/Tree_G.uasset" SILENT=true
+[2022.02.19-11.52.49:797][218]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Tree_G85FA7CB24FD3842E5EE1048DD1022BFC.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Materials/Model_Materials/Tree_G.uasset'
+[2022.02.19-11.52.49:837][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Character/Tree_G" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Models/Character/Tree_G.uasset" SILENT=true
+[2022.02.19-11.52.49:838][218]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Tree_G3FBC9A334364EAAE222BA0ACF63E471D.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Models/Character/Tree_G.uasset'
+[2022.02.19-11.52.49:875][218]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.19-11.52.49:875][218]LogContentValidation: Display: Validating Material /Game/Materials/Model_Materials/Tree_G.Tree_G
+[2022.02.19-11.52.49:875][218]LogContentValidation: Display: Validating ObjectRedirector /Game/Models/Character/Tree_G.Tree_G
+[2022.02.19-11.52.53:394][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Model_Materials/Payload" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Materials/Model_Materials/Payload.uasset" SILENT=true
+[2022.02.19-11.52.53:403][472]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/PayloadC4151A06484C9B70DBB0ED8D8C430F6A.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Materials/Model_Materials/Payload.uasset'
+[2022.02.19-11.52.53:462][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.02.19-11.52.53:475][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.02.19-11.52.53:479][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.02.19-11.52.53:581][472]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/BP_FlyGlider2C6BE301945D4F3F9320C0CA0ECB26E40.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Blueprints/Characters/BP_FlyGlider2.uasset'
+[2022.02.19-11.52.53:601][472]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/BP_FlyGliderE04280D04058AFA027FA2E8F939EEBDF.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Blueprints/Characters/BP_FlyGlider.uasset'
+[2022.02.19-11.52.53:639][472]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.19-11.52.53:639][472]LogContentValidation: Display: Validating StaticMesh /Game/Materials/Model_Materials/Payload.Payload
+[2022.02.19-11.52.53:639][472]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/BP_FlyGlider.BP_FlyGlider
+[2022.02.19-11.52.53:639][472]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Characters/BP_FlyGlider2.BP_FlyGlider2
+[2022.02.19-11.52.57:881][734]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/SandStone683FC3CB4733B58F6B2D318FE23248F2.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Materials/Model_Materials/SandStone.uasset'
+[2022.02.19-11.52.57:882][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Character/SandStone" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Models/Character/SandStone.uasset" SILENT=true
+[2022.02.19-11.52.57:883][734]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/SandStone3849B6DD40BF67CD0F07DD8647C7DD06.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Models/Character/SandStone.uasset'
+[2022.02.19-11.52.57:920][734]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.19-11.52.57:920][734]LogContentValidation: Display: Validating Material /Game/Materials/Model_Materials/SandStone.SandStone
+[2022.02.19-11.52.57:920][734]LogContentValidation: Display: Validating ObjectRedirector /Game/Models/Character/SandStone.SandStone
+[2022.02.19-11.53.01:488][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
