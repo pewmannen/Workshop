@@ -1049,3 +1049,1460 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.02.19-11.52.57:920][734]LogContentValidation: Display: Validating Material /Game/Materials/Model_Materials/SandStone.SandStone
 [2022.02.19-11.52.57:920][734]LogContentValidation: Display: Validating ObjectRedirector /Game/Models/Character/SandStone.SandStone
 [2022.02.19-11.53.01:488][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.02.19-12.14.50:008][879]LogLinker: Warning: [AssetLog] C:\Users\nickl\OneDrive\Documents\GitHub\Workshop\Content\Models\Grass_Mat.uasset: Failed to load '/Game/Data/Textures/Grass/Grass': Can't find file.
+[2022.02.19-12.14.50:008][879]LogLinker: Warning: [AssetLog] C:\Users\nickl\OneDrive\Documents\GitHub\Workshop\Content\Models\Grass_Mat.uasset: Failed to load '/Game/Data/Textures/Grass/Grass': Can't find file.
+[2022.02.19-12.14.50:008][879]LogLinker: Warning: [AssetLog] C:\Users\nickl\OneDrive\Documents\GitHub\Workshop\Content\Models\Grass_Mat.uasset: Failed to load '/Game/Data/Textures/Grass/Grass': Can't find file.
+[2022.02.19-12.14.50:009][879]LogLinker: Warning: [AssetLog] C:\Users\nickl\OneDrive\Documents\GitHub\Workshop\Content\Models\Grass_Mat.uasset: Failed to load '/Game/Data/Textures/Grass/Grass': Can't find file.
+[2022.02.19-12.14.50:009][879]LoadErrors: Failed to load /Game/Data/Textures/Grass/Grass.Grass Referenced by Grass_MAT
+[2022.02.19-12.14.50:010][879]LogLinker: Warning: [AssetLog] C:\Users\nickl\OneDrive\Documents\GitHub\Workshop\Content\Models\Grass_Mat.uasset: Failed to load '/Game/Data/Textures/Grass/Grass': Can't find file.
+[2022.02.19-12.14.50:010][879]LoadErrors: Failed to load /Game/Data/Textures/Grass/Grass.Grass Referenced by MaterialExpressionTextureSample_1
+[2022.02.19-12.14.50:012][879]LogMaterial: Display: Missing cached shadermap for Grass_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: A5EB331A95BBF3DE509E547433F2043FE2C90622), compiling. 
+[2022.02.19-12.14.50:013][879]LogMaterial: Warning: [AssetLog] C:\Users\nickl\OneDrive\Documents\GitHub\Workshop\Content\Models\Grass_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.19-12.14.50:013][879]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.19-12.14.50:014][879]LogLinker: Warning: [AssetLog] C:\Users\nickl\OneDrive\Documents\GitHub\Workshop\Content\Models\Grass_02_Mat.uasset: Failed to load '/Game/Data/Textures/Grass/Grass_02': Can't find file.
+[2022.02.19-12.14.50:014][879]LogLinker: Warning: [AssetLog] C:\Users\nickl\OneDrive\Documents\GitHub\Workshop\Content\Models\Grass_02_Mat.uasset: Failed to load '/Game/Data/Textures/Grass/Grass_02': Can't find file.
+[2022.02.19-12.14.50:014][879]LogLinker: Warning: [AssetLog] C:\Users\nickl\OneDrive\Documents\GitHub\Workshop\Content\Models\Grass_02_Mat.uasset: Failed to load '/Game/Data/Textures/Grass/Grass_02': Can't find file.
+[2022.02.19-12.14.50:014][879]LogLinker: Warning: [AssetLog] C:\Users\nickl\OneDrive\Documents\GitHub\Workshop\Content\Models\Grass_02_Mat.uasset: Failed to load '/Game/Data/Textures/Grass/Grass_02': Can't find file.
+[2022.02.19-12.14.50:014][879]LoadErrors: Failed to load /Game/Data/Textures/Grass/Grass_02.Grass_02 Referenced by Grass_02_Mat
+[2022.02.19-12.14.50:015][879]LogLinker: Warning: [AssetLog] C:\Users\nickl\OneDrive\Documents\GitHub\Workshop\Content\Models\Grass_02_Mat.uasset: Failed to load '/Game/Data/Textures/Grass/Grass_02': Can't find file.
+[2022.02.19-12.14.50:015][879]LoadErrors: Failed to load /Game/Data/Textures/Grass/Grass_02.Grass_02 Referenced by MaterialExpressionTextureSample_1
+[2022.02.19-12.14.50:016][879]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: F311A61B00630785A51A9BA99F1BFAEF427F8164), compiling. 
+[2022.02.19-12.14.50:017][879]LogMaterial: Warning: [AssetLog] C:\Users\nickl\OneDrive\Documents\GitHub\Workshop\Content\Models\Grass_02_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.19-12.14.50:017][879]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.19-12.14.52:588][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Grass_MAT" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Materials/Grass_MAT.uasset" SILENT=true
+[2022.02.19-12.14.52:594][ 97]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Grass_MAT4D891E594BC8D3A6A55B2994A0E276A5.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Materials/Grass_MAT.uasset'
+[2022.02.19-12.14.52:603][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Grass_02_Mat" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Materials/Grass_02_Mat.uasset" SILENT=true
+[2022.02.19-12.14.52:679][ 97]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Grass_02_Mat1EE694824F146899B47BCCB19FF5AAA0.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Materials/Grass_02_Mat.uasset'
+[2022.02.19-12.14.52:738][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.02.19-12.14.52:745][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.02.19-12.14.52:753][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.02.19-12.14.52:756][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.02.19-12.14.52:858][ 97]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.19-12.14.52:858][ 97]LogContentValidation: Display: Validating Material /Game/Materials/Grass_MAT.Grass_MAT
+[2022.02.19-12.14.52:858][ 97]LogContentValidation: Display: Validating Material /Game/Materials/Grass_02_Mat.Grass_02_Mat
+[2022.02.19-12.14.58:358][523]LogLinker: Warning: [AssetLog] C:\Users\nickl\OneDrive\Documents\GitHub\Workshop\Content\Models\Grass_02_Mesh.uasset: Failed to load '/Game/Data/Textures/Grass/Grass_02_Mat': Can't find file.
+[2022.02.19-12.14.58:358][523]LogLinker: Warning: [AssetLog] C:\Users\nickl\OneDrive\Documents\GitHub\Workshop\Content\Models\Grass_02_Mesh.uasset: Failed to load '/Game/Data/Textures/Grass/Grass_02_Mat': Can't find file.
+[2022.02.19-12.14.58:358][523]LogLinker: Warning: [AssetLog] C:\Users\nickl\OneDrive\Documents\GitHub\Workshop\Content\Models\Grass_02_Mesh.uasset: Failed to load '/Game/Data/Textures/Grass/Grass_02_Mat': Can't find file.
+[2022.02.19-12.14.58:359][523]LogLinker: Warning: [AssetLog] C:\Users\nickl\OneDrive\Documents\GitHub\Workshop\Content\Models\Grass_02_Mesh.uasset: Failed to load '/Game/Data/Textures/Grass/Grass_02_Mat': Can't find file.
+[2022.02.19-12.14.58:359][523]LoadErrors: Failed to load /Game/Data/Textures/Grass/Grass_02_Mat.Grass_02_Mat Referenced by Grass_02_Mesh
+[2022.02.19-12.14.58:359][523]LogLinker: Warning: [AssetLog] C:\Users\nickl\OneDrive\Documents\GitHub\Workshop\Content\Models\Grass_02_Mesh.uasset: Failed to load '/Game/Data/Textures/Grass/Grass_02_Mat': Can't find file.
+[2022.02.19-12.14.58:360][523]LogLinker: Warning: [AssetLog] C:\Users\nickl\OneDrive\Documents\GitHub\Workshop\Content\Models\Grass_MESH.uasset: Failed to load '/Game/Data/Textures/Grass/Grass_Mat': Can't find file.
+[2022.02.19-12.14.58:360][523]LogLinker: Warning: [AssetLog] C:\Users\nickl\OneDrive\Documents\GitHub\Workshop\Content\Models\Grass_MESH.uasset: Failed to load '/Game/Data/Textures/Grass/Grass_Mat': Can't find file.
+[2022.02.19-12.14.58:360][523]LogLinker: Warning: [AssetLog] C:\Users\nickl\OneDrive\Documents\GitHub\Workshop\Content\Models\Grass_MESH.uasset: Failed to load '/Game/Data/Textures/Grass/Grass_Mat': Can't find file.
+[2022.02.19-12.14.58:360][523]LogLinker: Warning: [AssetLog] C:\Users\nickl\OneDrive\Documents\GitHub\Workshop\Content\Models\Grass_MESH.uasset: Failed to load '/Game/Data/Textures/Grass/Grass_Mat': Can't find file.
+[2022.02.19-12.14.58:361][523]LoadErrors: Failed to load /Game/Data/Textures/Grass/Grass_Mat.Grass_MAT Referenced by Grass_MESH
+[2022.02.19-12.14.58:361][523]LogLinker: Warning: [AssetLog] C:\Users\nickl\OneDrive\Documents\GitHub\Workshop\Content\Models\Grass_MESH.uasset: Failed to load '/Game/Data/Textures/Grass/Grass_Mat': Can't find file.
+[2022.02.19-12.15.01:903][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grass_02_Mesh" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Blueprints/Grass_02_Mesh.uasset" SILENT=true
+[2022.02.19-12.15.01:908][799]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Grass_02_MeshFD28A3B94373C1449DFD8D9F3CB6108B.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Blueprints/Grass_02_Mesh.uasset'
+[2022.02.19-12.15.01:915][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grass_MESH" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Blueprints/Grass_MESH.uasset" SILENT=true
+[2022.02.19-12.15.01:920][799]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Grass_MESHC0FEDC934B2C593201605BA90104CF11.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Blueprints/Grass_MESH.uasset'
+[2022.02.19-12.15.01:971][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.02.19-12.15.01:975][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.02.19-12.15.01:985][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.02.19-12.15.01:989][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.02.19-12.15.02:022][799]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.19-12.15.02:022][799]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints/Grass_02_Mesh.Grass_02_Mesh
+[2022.02.19-12.15.02:022][799]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints/Grass_MESH.Grass_MESH
+[2022.02.19-12.15.13:119][846]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.19-12.15.13:135][846]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.19-12.15.24:737][587]LogContentBrowser: Attempting asset rename: NewFolder -> Enivronment
+[2022.02.19-12.15.24:737][587]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.19-12.15.40:442][288]LogContentBrowser: Attempting asset rename: Enivronment -> Environment
+[2022.02.19-12.15.44:158][565]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Grass_02_Mesh58F8BAAF413BF9BED08965AB9795B8BB.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Blueprints/Environment/Grass_02_Mesh.uasset'
+[2022.02.19-12.15.44:167][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Environment/Grass_MESH" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Blueprints/Environment/Grass_MESH.uasset" SILENT=true
+[2022.02.19-12.15.44:172][565]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Grass_MESH4D898D294CCDAECC1B8989B08CFA936D.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Blueprints/Environment/Grass_MESH.uasset'
+[2022.02.19-12.15.44:222][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.02.19-12.15.44:227][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.02.19-12.15.44:235][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.02.19-12.15.44:238][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.02.19-12.15.44:272][565]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.19-12.15.44:272][565]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints/Environment/Grass_02_Mesh.Grass_02_Mesh
+[2022.02.19-12.15.44:272][565]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints/Environment/Grass_MESH.Grass_MESH
+[2022.02.19-12.15.48:043][908]LogActorFactory: Actor Factory created Grass_02_Mesh
+[2022.02.19-12.15.48:771][974]LogActorFactory: Actor Factory created Grass_02_Mesh
+[2022.02.19-12.15.50:801][194]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.02.19-12.16.12:147][311]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprints/Environment/Grass_02_Mesh.Grass_02_Mesh
+[2022.02.19-12.16.20:124][126]LogStaticMesh: Building static mesh Grass_02_Mesh...
+[2022.02.19-12.16.20:136][126]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Environment/Grass_02_Mesh.Grass_02_Mesh
+[2022.02.19-12.16.22:475][383]LogSlate: Window 'Grass_02_Mesh' being destroyed
+[2022.02.19-12.16.22:478][383]LogSlate: Window 'Grass_02_Mesh' being destroyed
+[2022.02.19-12.16.22:480][383]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-12.16.22:480][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-12.16.39:654][  9]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.19-12.16.39:666][  9]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.19-12.16.42:288][317]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2022.02.19-12.16.42:288][317]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.19-12.16.49:531][ 75]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.19-12.16.49:550][ 75]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.19-12.16.53:595][554]LogContentBrowser: Attempting asset rename: NewFolder -> Grasses
+[2022.02.19-12.16.53:596][554]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.19-12.17.06:581][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grasses/Grass" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Textures/Grasses/Grass.uasset" SILENT=true
+[2022.02.19-12.17.06:587][737]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/GrassA2E607A747011298AB4FE5B481DF2A3E.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Textures/Grasses/Grass.uasset'
+[2022.02.19-12.17.06:590][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Grasses/Grass_02" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Textures/Grasses/Grass_02.uasset" SILENT=true
+[2022.02.19-12.17.06:595][737]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Grass_02CE252A574EF64414F2D354AE5AD18500.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Textures/Grasses/Grass_02.uasset'
+[2022.02.19-12.17.06:654][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.02.19-12.17.06:661][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.02.19-12.17.06:668][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.02.19-12.17.06:672][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.02.19-12.17.06:704][737]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.19-12.17.06:704][737]LogContentValidation: Display: Validating Texture2D /Game/Textures/Grasses/Grass.Grass
+[2022.02.19-12.17.06:704][737]LogContentValidation: Display: Validating Texture2D /Game/Textures/Grasses/Grass_02.Grass_02
+[2022.02.19-12.17.51:020][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.02.19-12.17.51:111][614]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/M_Level1_Auto213D4DCCE45C40F0991E186854F29927B.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Autosaves/Game/Maps/M_Level1_Auto2.umap'
+[2022.02.19-12.17.51:112][614]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/M_Level1' took 0.097
+[2022.02.19-12.17.51:112][614]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.097
+[2022.02.19-12.17.51:113][614]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Environment/Grass_02_Mesh] ([1] browsable assets)...
+[2022.02.19-12.17.51:119][614]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Blueprints/Environment/Grass_02_Mesh.Grass_02_Mesh]
+[2022.02.19-12.17.51:119][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Environment/Grass_02_Mesh]
+[2022.02.19-12.17.51:124][614]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Grass_02_Mesh_Auto25A23626C4605CFC9CB789A8E217D97E9.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Autosaves/Game/Blueprints/Environment/Grass_02_Mesh_Auto2.uasset'
+[2022.02.19-12.17.51:124][614]LogFileHelpers: Auto-saving content packages took 0.012
+[2022.02.19-12.17.56:248][932]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Grass_MAT.Grass_MAT
+[2022.02.19-12.17.56:346][932]LogMaterial: Display: Missing cached shadermap for Grass_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: E347A9E68A889590278A244218548CB31094A546), compiling. 
+[2022.02.19-12.17.56:347][932]LogMaterial: Warning: [AssetLog] /Engine/Transient.Grass_MAT (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.19-12.17.56:347][932]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.19-12.17.56:503][932]LogMaterial: Display: Missing cached shadermap for Grass_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: 14C68325F93CE7CE7C204000F50F4C585401B7D6), compiling. 
+[2022.02.19-12.17.56:504][932]LogMaterial: Warning: [AssetLog] /Engine/Transient.Grass_MAT (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.19-12.17.56:504][932]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.19-12.17.56:505][932]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4A153C58A67D67A8708D3F7AB01EFECD3F818982), compiling. 
+[2022.02.19-12.17.56:506][932]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4C6DB22268F0A0B559BFA29C5C777E6F2DFCBCBB), compiling. 
+[2022.02.19-12.17.56:507][932]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0CE885C18B3608896F735E006DF0B6E23E0634B5), compiling. 
+[2022.02.19-12.17.56:507][932]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7E45B9B9B902370114D1C99BFA3BD3DC9DD15D47), compiling. 
+[2022.02.19-12.17.56:523][932]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2022.02.19-12.17.57:704][ 46]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.17.57:705][ 46]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.17.57:715][ 47]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.02.19-12.17.57:715][ 47]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.02.19-12.17.57:715][ 47]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.02.19-12.17.57:715][ 47]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.02.19-12.17.57:715][ 47]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.17.58:169][ 91]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.19-12.17.58:169][ 91]LogShaderCompilers: Display: Total job queries 20, among them cache hits 0 (0.00%)
+[2022.02.19-12.17.58:169][ 91]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 14 distinct outputs (70.00%)
+[2022.02.19-12.17.58:169][ 91]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.02.19-12.17.58:169][ 91]LogShaderCompilers: Display: ================================================
+[2022.02.19-12.17.58:850][173]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.17.58:850][173]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.19-12.17.58:850][173]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.19-12.17.58:850][173]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.04:671][669]LogMaterial: Display: Missing cached shadermap for Grass_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: 39A4DA8130B83D48133E1FECE9A1A37CFAEC3A6D), compiling. 
+[2022.02.19-12.18.04:673][669]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5E5A546DE24ED23405EB5F1B9B5C6AFC1883FD57), compiling. 
+[2022.02.19-12.18.04:676][669]LogMaterial: Display: Missing cached shadermap for Grass_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: F4949F2EF3EB844EB4A516BEF96367A6715FF6B8), compiling. 
+[2022.02.19-12.18.04:679][669]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.18.04:679][669]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.04:679][669]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.04:691][669]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.04:693][669]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.04:703][669]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.02.19-12.18.04:703][669]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.02.19-12.18.04:703][669]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.02.19-12.18.04:703][669]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.04:723][669]LogShaderCompilers: Display: Submitted 27 shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.04:723][669]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.02.19-12.18.04:723][669]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.02.19-12.18.04:723][669]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.02.19-12.18.04:723][669]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.02.19-12.18.04:723][669]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.02.19-12.18.04:723][669]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.04:783][671]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.04:933][680]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.02.19-12.18.04:933][680]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.04:956][681]MaterialEditorStats: Texture samplers: 1/16
+[2022.02.19-12.18.04:956][681]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.04:956][681]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.05:155][692]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.02.19-12.18.05:155][692]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.05:172][693]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2022.02.19-12.18.05:172][693]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.05:208][695]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2022.02.19-12.18.05:209][695]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.05:225][696]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2022.02.19-12.18.05:225][696]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.05:227][696]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.18.05:227][696]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.05:227][696]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.05:229][696]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2022.02.19-12.18.05:229][696]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.05:401][705]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2022.02.19-12.18.05:401][705]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2022.02.19-12.18.05:401][705]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.05:598][716]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2022.02.19-12.18.05:598][716]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.05:807][727]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.02.19-12.18.05:807][727]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.06:062][741]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.02.19-12.18.06:062][741]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.02.19-12.18.06:062][741]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.06:062][741]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2022.02.19-12.18.06:062][741]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.06:252][752]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.02.19-12.18.06:252][752]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.02.19-12.18.06:252][752]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.06:600][776]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.18.06:600][776]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.18.06:600][776]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.18.06:600][776]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.18.06:600][776]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.06:601][776]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.07:658][885]LogMaterialEditor: Saving and Compiling material Grass_MAT
+[2022.02.19-12.18.08:103][885]LogMaterial: Display: Missing cached shadermap for Grass_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: 0783B2862914AD68FDF11DA51D4289BF21E0F5DD), compiling. 
+[2022.02.19-12.18.08:127][885]LogMaterial: Display: Missing cached shadermap for Grass_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: B267E690B2C3A8946BB40CDA66C2D4CC7DEC3456), compiling. 
+[2022.02.19-12.18.08:231][885]LogShaderCompilers: Display: Submitted 54 shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.08:238][885]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 54
+[2022.02.19-12.18.08:238][885]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 47
+[2022.02.19-12.18.08:238][885]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 40
+[2022.02.19-12.18.08:238][885]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 33
+[2022.02.19-12.18.08:238][885]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2022.02.19-12.18.08:238][885]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2022.02.19-12.18.08:238][885]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2022.02.19-12.18.08:238][885]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2022.02.19-12.18.08:238][885]LogShaderCompilers: Display: Started 54 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.08:256][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.02.19-12.18.09:908][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.02.19-12.18.10:513][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Grass_MAT" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Materials/Grass_MAT.uasset" SILENT=true
+[2022.02.19-12.18.10:519][885]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Grass_MAT896AB73F40F6B221D236C5B12D86C11B.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Materials/Grass_MAT.uasset'
+[2022.02.19-12.18.10:525][885]AssetCheck: New page: Asset Save: Grass_MAT
+[2022.02.19-12.18.10:525][885]LogContentValidation: Display: Validating Material /Game/Materials/Grass_MAT.Grass_MAT
+[2022.02.19-12.18.10:526][885]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.18.10:526][885]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.18.10:526][885]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.18.10:526][885]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.19-12.18.10:526][885]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.10:526][885]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.11:245][952]LogSlate: Window 'Grass_MAT' being destroyed
+[2022.02.19-12.18.11:247][952]LogSlate: Window 'Grass_MAT' being destroyed
+[2022.02.19-12.18.11:258][952]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-12.18.11:258][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-12.18.12:345][ 49]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Grass_02_Mat.Grass_02_Mat
+[2022.02.19-12.18.12:347][ 49]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 842ABDB650767B0F31635015FCE6EE59876B7DCF), compiling. 
+[2022.02.19-12.18.12:348][ 49]LogMaterial: Warning: [AssetLog] /Engine/Transient.Grass_02_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.19-12.18.12:348][ 49]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.19-12.18.12:450][ 49]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: AEB124D40B89EDB2437B180071C48FE4FA175DA0), compiling. 
+[2022.02.19-12.18.12:451][ 49]LogMaterial: Warning: [AssetLog] /Engine/Transient.Grass_02_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.19-12.18.12:451][ 49]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.19-12.18.12:452][ 49]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 817CA960779A70C4BB5E5ED39EA83025B2D7DB2B), compiling. 
+[2022.02.19-12.18.12:453][ 49]LogMaterial: Warning: [AssetLog] /Engine/Transient.Grass_02_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.19-12.18.12:453][ 49]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.02.19-12.18.12:453][ 49]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2E98BEF10FD7A9A7000E9CE3EAB3125D08DCFD74), compiling. 
+[2022.02.19-12.18.12:454][ 49]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 880A9A9C12AC249FB8F728133F19002F2665E3AE), compiling. 
+[2022.02.19-12.18.12:455][ 49]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1534250CB41DDB8733A698CD62527E5AEFBCECC6), compiling. 
+[2022.02.19-12.18.12:456][ 49]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: A28B876E518CAE2BC6B56C8C3B4AFF0EB15165AE), compiling. 
+[2022.02.19-12.18.12:463][ 49]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2022.02.19-12.18.17:998][613]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A63C2399F403B71E898E148663A47B4915F3CB6E), compiling. 
+[2022.02.19-12.18.18:001][613]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5719894E17EE392618FB1EF1F132B25EDE654A9E), compiling. 
+[2022.02.19-12.18.18:003][613]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 59A653D1D54E418C3B5282EAFE2129CEEF624522), compiling. 
+[2022.02.19-12.18.18:006][613]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.18.18:006][613]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.18:006][613]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.18:046][614]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.18:046][614]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.18:046][614]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.02.19-12.18.18:046][614]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.02.19-12.18.18:046][614]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.02.19-12.18.18:046][614]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.18:046][614]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2022.02.19-12.18.18:046][614]LogShaderCompilers: Display: Submitted 27 shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.18:046][614]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2022.02.19-12.18.18:046][614]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2022.02.19-12.18.18:046][614]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2022.02.19-12.18.18:046][614]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2022.02.19-12.18.18:046][614]LogShaderCompilers: Display: Started 15 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.18:556][637]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.02.19-12.18.18:556][637]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.02.19-12.18.18:556][637]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.18:574][638]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.18.18:574][638]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.18:574][638]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.18:829][653]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.19-12.18.18:829][653]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.02.19-12.18.18:829][653]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.19:025][665]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2022.02.19-12.18.19:025][665]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.19:032][665]LogMaterialEditor: Saving and Compiling material Grass_02_Mat
+[2022.02.19-12.18.19:343][665]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.02.19-12.18.19:343][665]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.19:343][665]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.02.19-12.18.19:343][665]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.19:344][665]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.02.19-12.18.19:344][665]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.19:344][665]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.02.19-12.18.19:344][665]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.19:344][665]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.02.19-12.18.19:344][665]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.19:344][665]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.02.19-12.18.19:344][665]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.19:378][665]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 40D1B6A27726BC1733D39C151D1B632C8DA1A590), compiling. 
+[2022.02.19-12.18.19:417][665]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5FAE0136CCC80F1F81A4850E55F71EA9CDCC77E4), compiling. 
+[2022.02.19-12.18.19:501][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.02.19-12.18.19:505][665]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.19:718][665]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.02.19-12.18.19:718][665]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.19:724][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.02.19-12.18.19:801][665]LogShaderCompilers: Display: Submitted 53 shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.19:805][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Grass_02_Mat" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Materials/Grass_02_Mat.uasset" SILENT=true
+[2022.02.19-12.18.19:811][665]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 53
+[2022.02.19-12.18.19:811][665]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 46
+[2022.02.19-12.18.19:811][665]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 39
+[2022.02.19-12.18.19:811][665]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 32
+[2022.02.19-12.18.19:811][665]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2022.02.19-12.18.19:811][665]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2022.02.19-12.18.19:811][665]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2022.02.19-12.18.19:811][665]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.02.19-12.18.19:811][665]LogShaderCompilers: Display: Started 53 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.19:811][665]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Grass_02_Mat1ECF74734E4D90EAD2166DB6AAC4E090.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Materials/Grass_02_Mat.uasset'
+[2022.02.19-12.18.19:818][665]AssetCheck: New page: Asset Save: Grass_02_Mat
+[2022.02.19-12.18.19:818][665]LogContentValidation: Display: Validating Material /Game/Materials/Grass_02_Mat.Grass_02_Mat
+[2022.02.19-12.18.22:011][818]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.19-12.18.22:011][818]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.22:011][818]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.22:585][884]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.18.22:585][884]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.18.22:585][884]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.18.22:585][884]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.19-12.18.22:585][884]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.22:585][884]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.29:806][704]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 8DB86CC1E357CA905E49003906B948C88B006871), compiling. 
+[2022.02.19-12.18.29:808][704]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5FA0004943B21D89236EC43ABC914D2EC2667B0F), compiling. 
+[2022.02.19-12.18.29:811][704]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.18.29:811][704]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.29:811][704]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.29:842][706]MaterialEditorStats: Texture samplers: 1/16
+[2022.02.19-12.18.29:842][706]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.29:842][706]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.29:861][707]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.18.29:862][707]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.18.29:862][707]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.18.29:862][707]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.18.29:862][707]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.29:862][707]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.31:380][873]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A815C34EC2372C2B687A73D3C14F56153D107355), compiling. 
+[2022.02.19-12.18.31:382][873]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: E7D9D987FD679CCF01F8A893FF317103480D2DBF), compiling. 
+[2022.02.19-12.18.31:385][873]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.18.31:385][873]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.31:385][873]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.31:459][876]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.18.31:459][876]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.18.31:459][876]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.18.31:459][876]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.18.31:459][876]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.31:459][876]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.33:146][ 21]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: FC2CAB45572A3DD448593FC50D859F8B5F59444F), compiling. 
+[2022.02.19-12.18.33:148][ 21]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F8141F99610625E2EFB4F2978AF27D53E6041029), compiling. 
+[2022.02.19-12.18.33:151][ 21]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.18.33:151][ 21]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.33:151][ 21]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.33:182][ 23]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.18.33:182][ 23]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.33:182][ 23]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.33:201][ 24]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.18.33:201][ 24]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.18.33:201][ 24]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.18.33:201][ 24]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.18.33:201][ 24]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.33:201][ 24]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.33:898][ 95]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: AA4605FE7A489F0AA9823572C745B574EB8FB33A), compiling. 
+[2022.02.19-12.18.33:900][ 95]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C0B061326A8DA7C2052DCC0937B3EF66A0475618), compiling. 
+[2022.02.19-12.18.33:902][ 95]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.18.33:902][ 95]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.33:902][ 95]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.33:934][ 97]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.18.33:934][ 97]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.33:934][ 97]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.33:953][ 98]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.18.33:953][ 98]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.18.33:953][ 98]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.18.33:953][ 98]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.18.33:953][ 98]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.33:953][ 98]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.34:413][153]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: FAC51A901F3C29A2B96478D7F34C9C1F7A27CC14), compiling. 
+[2022.02.19-12.18.34:415][153]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 33A83DE4CC5CBD0A3EB3BB819F73DF47FDB52AFA), compiling. 
+[2022.02.19-12.18.34:417][153]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.18.34:417][153]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.34:417][153]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.34:448][155]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.18.34:448][155]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.34:448][155]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.34:466][156]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.18.34:466][156]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.18.34:466][156]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.18.34:466][156]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.18.34:466][156]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.34:466][156]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.39:913][642]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: E8A7F1B14B20394FF610748D70DFD4DFEEC6EFA8), compiling. 
+[2022.02.19-12.18.39:915][642]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4F8FA66F707751649856BC7A769A61B6F06E93CA), compiling. 
+[2022.02.19-12.18.39:946][642]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.18.39:946][642]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.39:946][642]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.39:954][643]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.39:954][643]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.02.19-12.18.39:954][643]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.39:963][644]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.39:963][644]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.02.19-12.18.39:963][644]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.02.19-12.18.39:963][644]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.39:972][644]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.02.19-12.18.39:972][644]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 26
+[2022.02.19-12.18.39:972][644]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2022.02.19-12.18.39:972][644]LogShaderCompilers: Display: Submitted 27 shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.39:972][644]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2022.02.19-12.18.39:972][644]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 23
+[2022.02.19-12.18.39:972][644]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.40:436][669]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2022.02.19-12.18.40:436][669]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.02.19-12.18.40:436][669]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.02.19-12.18.40:436][669]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.40:454][670]MaterialEditorStats: Texture samplers: 1/16
+[2022.02.19-12.18.40:454][670]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.40:454][670]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.40:470][671]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.02.19-12.18.40:470][671]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.40:470][671]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2022.02.19-12.18.40:470][671]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.40:486][672]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2022.02.19-12.18.40:486][672]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.40:506][673]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.18.40:506][673]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.40:506][673]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.40:705][683]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2022.02.19-12.18.40:705][683]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2022.02.19-12.18.40:705][683]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.02.19-12.18.40:705][683]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.40:918][691]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.02.19-12.18.40:919][691]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2022.02.19-12.18.40:919][691]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.40:923][691]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.02.19-12.18.40:923][691]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.02.19-12.18.40:923][691]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.41:251][707]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2022.02.19-12.18.41:251][707]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.41:332][712]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.02.19-12.18.41:332][712]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.41:349][713]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.19-12.18.41:349][713]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.41:785][745]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.18.41:785][745]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.18.41:785][745]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.18.41:785][745]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.18.41:785][745]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.41:785][745]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.48:062][483]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B3FB4FC1B6FD8EAE6C9B0D620D79031E208800F3), compiling. 
+[2022.02.19-12.18.48:064][483]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 22D1914D4B050D59B9AA8124207CFD8179321C01), compiling. 
+[2022.02.19-12.18.48:066][483]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.18.48:066][483]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.48:066][483]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.48:097][485]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.18.48:097][485]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.48:097][485]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.48:116][486]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.18.48:116][486]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.18.48:116][486]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.18.48:116][486]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.18.48:116][486]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.48:116][486]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.48:687][554]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 420A75F696EB5839E8CB1D08513AE43B2F30707A), compiling. 
+[2022.02.19-12.18.48:689][554]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C626BB70CF3E54061FA5C25CF19E35A440559961), compiling. 
+[2022.02.19-12.18.48:692][554]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.18.48:692][554]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.48:692][554]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.48:723][556]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.18.48:723][556]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.48:723][556]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.48:743][557]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.18.48:743][557]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.18.48:743][557]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.18.48:743][557]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.18.48:743][557]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.48:743][557]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.49:913][671]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1E794A0F64C5B31C8AD78667D163BE9D8EE87B1C), compiling. 
+[2022.02.19-12.18.49:915][671]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: EE00E76F76B469F99AAD5979E032148F1247BBC5), compiling. 
+[2022.02.19-12.18.49:919][671]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.18.49:919][671]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.49:919][671]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.50:011][674]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.18.50:011][674]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.18.50:011][674]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.18.50:011][674]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.18.50:011][674]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.50:011][674]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.54:893][189]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 680BB04B565CBC83448C8791EAE330F9AF8B5A07), compiling. 
+[2022.02.19-12.18.54:895][189]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B8B2325240145332472F8BA89EA0C7EFA3BCA73F), compiling. 
+[2022.02.19-12.18.54:898][189]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.18.54:898][189]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.54:898][189]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.54:906][190]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.54:914][191]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.54:914][191]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.02.19-12.18.54:915][191]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.02.19-12.18.54:915][191]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.02.19-12.18.54:915][191]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.54:923][191]LogShaderCompilers: Display: Submitted 27 shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.54:923][191]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2022.02.19-12.18.54:923][191]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2022.02.19-12.18.54:923][191]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2022.02.19-12.18.54:923][191]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2022.02.19-12.18.54:923][191]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2022.02.19-12.18.54:923][191]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.55:453][219]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.02.19-12.18.55:453][219]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.55:472][220]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.19-12.18.55:472][220]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.55:473][220]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.18.55:473][220]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.55:473][220]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.18.55:695][233]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.02.19-12.18.55:695][233]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.18.55:713][234]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.02.19-12.18.55:713][234]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.55:907][245]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.02.19-12.18.55:907][245]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.56:168][261]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.02.19-12.18.56:169][261]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.02.19-12.18.56:169][261]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.18.56:807][311]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.18.56:807][311]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.18.56:807][311]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.18.56:807][311]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.18.56:807][311]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.18.56:808][311]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.09:386][613]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.19-12.19.16:382][403]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C0C164B4C9A662F7D9224DED9BBA1014F931F0FD), compiling. 
+[2022.02.19-12.19.16:384][403]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 599C09ABE9F544F7E2C920381C4C060A94E6A217), compiling. 
+[2022.02.19-12.19.16:387][403]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.19.16:387][403]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.16:387][403]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.16:419][405]MaterialEditorStats: Texture samplers: 1/16
+[2022.02.19-12.19.16:419][405]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.16:419][405]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.16:439][406]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.19.16:439][406]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.19.16:439][406]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.19.16:439][406]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.16:439][406]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.16:439][406]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.17:367][517]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A0EEE9230C80A65930A366ED46CEB7E478341B0B), compiling. 
+[2022.02.19-12.19.17:369][517]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: AFD66D3737932B4AA69A5E9DC0BB3EC86CDC18D5), compiling. 
+[2022.02.19-12.19.17:372][517]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.19.17:372][517]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.17:372][517]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.17:404][519]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.17:404][519]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.17:404][519]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.17:423][520]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.19.17:423][520]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.19.17:423][520]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.19.17:423][520]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.17:423][520]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.17:423][520]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.19:409][754]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C14AB3DDA01A2E70AA2C6F3E2A362E1C01FABD6A), compiling. 
+[2022.02.19-12.19.19:411][754]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: CCFA1D557184F243390175D2157C57498DAF6E0D), compiling. 
+[2022.02.19-12.19.19:413][754]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.19.19:413][754]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.19:413][754]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.19:445][756]MaterialEditorStats: Texture samplers: 1/16
+[2022.02.19-12.19.19:445][756]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.19:445][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.19:465][757]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.19.19:465][757]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.19.19:465][757]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.19.19:465][757]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.19:465][757]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.19:465][757]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.19:715][787]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 760D3FD9886993E7A1F3BE227CF46086AF79FB47), compiling. 
+[2022.02.19-12.19.19:717][787]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8F361146BAFF739E74579B160CD9B9C8937498F5), compiling. 
+[2022.02.19-12.19.19:720][787]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.19.19:720][787]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.19:720][787]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.19:751][789]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.19:751][789]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.19:751][789]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.19:769][790]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.19.19:769][790]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.19.19:769][790]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.19.19:769][790]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.19:769][790]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.19:769][790]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.20:396][850]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A45C134ABBA9B9E190821CBD47CF49B5A4676308), compiling. 
+[2022.02.19-12.19.20:398][850]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 735975C5D103D2274CB2980EBA3687F59C41CBD8), compiling. 
+[2022.02.19-12.19.20:400][850]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.19.20:400][850]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.20:400][850]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.20:476][853]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.19.20:476][853]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.19.20:476][853]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.19.20:476][853]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.20:476][853]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.20:476][853]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.21:129][913]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 77B9EBE349C75797A536049300DAE539D5CEC6EC), compiling. 
+[2022.02.19-12.19.21:131][913]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 90AE43705FBBBC8D78909344E5C62B011CCBBCA6), compiling. 
+[2022.02.19-12.19.21:134][913]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.19.21:134][913]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.21:134][913]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.21:207][916]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.19.21:207][916]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.19.21:207][916]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.19.21:207][916]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.21:207][916]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.21:207][916]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.22:982][ 80]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5D3DE8E9F2D53711659E01B90532FBE784D70284), compiling. 
+[2022.02.19-12.19.23:081][ 80]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5B1FA08489F450FBDCCB41AB4C973AF19FB40105), compiling. 
+[2022.02.19-12.19.23:084][ 80]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.19.23:084][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.23:084][ 80]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.23:116][ 82]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.23:116][ 82]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.23:116][ 82]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.23:146][ 83]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.19.23:146][ 83]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.19.23:146][ 83]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.19.23:146][ 83]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.23:146][ 83]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.23:146][ 83]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.24:029][141]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: DA06036465EAD37D6E577437802F1002607477AA), compiling. 
+[2022.02.19-12.19.24:031][141]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 38A699A25C81012E2C3ED13A7E2A932BC297EF62), compiling. 
+[2022.02.19-12.19.24:033][141]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.19.24:033][141]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.24:033][141]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.24:106][144]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.19.24:106][144]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.19.24:106][144]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.19.24:106][144]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.24:106][144]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.24:106][144]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.24:763][195]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: EEDE0E4261CB9F37493A8FFE945CE28C82E858BB), compiling. 
+[2022.02.19-12.19.24:765][195]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C244BEB4B7F47D17460E09771B4B825533612E55), compiling. 
+[2022.02.19-12.19.24:767][195]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.19.24:767][195]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.24:767][195]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.24:840][198]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.19.24:840][198]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.19.24:840][198]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.19.24:840][198]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.24:840][198]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.24:840][198]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.25:929][293]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2A2588B85DD55FF43691E6586EF6510246586BC1), compiling. 
+[2022.02.19-12.19.25:931][293]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0482BB64F2BF3558B188928C60A18F5819B10381), compiling. 
+[2022.02.19-12.19.25:934][293]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.19.25:934][293]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.25:934][293]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.25:965][295]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.25:965][295]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.25:965][295]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.25:983][296]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.19.25:983][296]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.19.25:983][296]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.19.25:983][296]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.25:983][296]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.25:984][296]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.27:205][418]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1B6B9DF4F30C1466B944F53CB6C9BC647911BC32), compiling. 
+[2022.02.19-12.19.27:207][418]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 64F179CBA4C9F42F6321FCC3EC6D97E7B5981AD8), compiling. 
+[2022.02.19-12.19.27:210][418]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.19.27:210][418]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.27:210][418]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.27:242][420]MaterialEditorStats: Texture samplers: 1/16
+[2022.02.19-12.19.27:242][420]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.27:242][420]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.27:261][421]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.19.27:261][421]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.19.27:261][421]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.19.27:261][421]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.27:261][421]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.27:261][421]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.27:621][464]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B012C313E20F261760B97A12FCC9406FB04FCA21), compiling. 
+[2022.02.19-12.19.27:623][464]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A4AC60733E5F01D0213355FBAF55F609BDBE4808), compiling. 
+[2022.02.19-12.19.27:626][464]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.19.27:626][464]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.27:626][464]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.27:656][466]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.27:656][466]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.27:656][466]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.27:674][467]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.19.27:674][467]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.19.27:674][467]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.19.27:674][467]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.27:674][467]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.27:674][467]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.28:151][524]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7B1398B6D1079B17988E860FC9A2A5D36D104808), compiling. 
+[2022.02.19-12.19.28:153][524]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7F831CAE7235D396A3B4C0FE0959C9363E7CF586), compiling. 
+[2022.02.19-12.19.28:155][524]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.19.28:155][524]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.28:155][524]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.28:186][526]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.28:186][526]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.28:186][526]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.28:204][527]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.19.28:204][527]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.19.28:204][527]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.19.28:204][527]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.28:204][527]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.28:204][527]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.28:836][591]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B897E5E504A5BFA0B718B2A3394C926398F7AC48), compiling. 
+[2022.02.19-12.19.28:838][591]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: FE125A578D59D7F385B6E6CEC6044F7494FB8663), compiling. 
+[2022.02.19-12.19.28:841][591]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.19.28:841][591]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.28:841][591]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.28:871][593]MaterialEditorStats: Texture samplers: 1/16
+[2022.02.19-12.19.28:871][593]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.28:871][593]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.28:891][594]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.19.28:891][594]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.19.28:891][594]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.19.28:891][594]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.28:891][594]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.28:891][594]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.29:337][647]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 68523AC38AB3526289BCFD4698E68ADFBD28B535), compiling. 
+[2022.02.19-12.19.29:339][647]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A0D21BD6CEC1A67265B430941BACD263A6684152), compiling. 
+[2022.02.19-12.19.29:341][647]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.19.29:341][647]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.29:341][647]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.29:371][649]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.29:371][649]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.29:371][649]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.29:389][650]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.19.29:389][650]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.19.29:389][650]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.19.29:389][650]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.29:389][650]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.29:389][650]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.29:949][717]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 307909E2B781D6320CF6E82C043FA484F800E17E), compiling. 
+[2022.02.19-12.19.29:951][717]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 286EF593E781263BCF72530E6D642E5F8EEFD04B), compiling. 
+[2022.02.19-12.19.29:953][717]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.19.29:953][717]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.29:953][717]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.29:984][719]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.29:984][719]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.29:984][719]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.30:003][720]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.19.30:003][720]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.19.30:003][720]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.19.30:003][720]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.30:003][720]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.30:003][720]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.30:797][815]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6369CC14075752177E3F6D922C174DBFE1E93CC6), compiling. 
+[2022.02.19-12.19.30:799][815]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 07AACAE5815794BB09AA33EAF7E4A63CBE968077), compiling. 
+[2022.02.19-12.19.30:801][815]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.19.30:801][815]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.30:802][815]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.30:832][817]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.30:832][817]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.30:832][817]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.30:851][818]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.19.30:851][818]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.19.30:851][818]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.19.30:851][818]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.30:851][818]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.30:851][818]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.31:577][905]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 544422968F056272AD6BFAC7EBC3F2046A433361), compiling. 
+[2022.02.19-12.19.31:580][905]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 98B58E6C0EABA2EF19EA3A753E61F1AC53656B48), compiling. 
+[2022.02.19-12.19.31:582][905]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.19.31:582][905]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.31:582][905]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.31:615][907]MaterialEditorStats: Texture samplers: 1/16
+[2022.02.19-12.19.31:615][907]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.31:615][907]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.31:636][908]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.19.31:636][908]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.19.31:636][908]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.19.31:636][908]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.31:636][908]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.31:636][908]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.32:079][961]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1BA78A5F7421E24BCE3546BCCC30AF1B055740D2), compiling. 
+[2022.02.19-12.19.32:081][961]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: CDD037A33C7E13112E5F23AE84C467AABDAD74F0), compiling. 
+[2022.02.19-12.19.32:083][961]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.19.32:083][961]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.32:083][961]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.32:114][963]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.32:114][963]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.32:114][963]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.32:133][964]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.19.32:133][964]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.19.32:133][964]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.19.32:133][964]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.32:133][964]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.32:133][964]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.32:710][ 33]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 313611456E551D441A71E069E8FD227F8B4814B2), compiling. 
+[2022.02.19-12.19.32:712][ 33]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 40BEE5869CEDC52491BDF817D898C72CEF3CF9E2), compiling. 
+[2022.02.19-12.19.32:714][ 33]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.19.32:714][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.32:714][ 33]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.32:745][ 35]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.32:745][ 35]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.32:745][ 35]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.32:763][ 36]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.19.32:763][ 36]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.19.32:763][ 36]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.19.32:763][ 36]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.32:763][ 36]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.32:763][ 36]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.34:233][210]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: BABC06CAF9C37DCDF38F5435ACE7715CE4721B29), compiling. 
+[2022.02.19-12.19.34:236][210]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7C5CF3674D30EF53CC7B22CD416A5135E6AFB1C5), compiling. 
+[2022.02.19-12.19.34:238][210]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.19.34:238][210]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.34:238][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.34:268][212]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.34:268][212]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.34:268][212]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.34:287][213]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.19.34:287][213]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.19.34:287][213]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.19.34:287][213]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.34:287][213]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.34:287][213]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.34:697][262]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2DD4411F311A571C40F366CBE4447E9F9EBE1923), compiling. 
+[2022.02.19-12.19.34:699][262]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F00B9529F1AB6A051EC429B451957B77270004CB), compiling. 
+[2022.02.19-12.19.34:701][262]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.19.34:701][262]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.34:701][262]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.34:732][264]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.34:732][264]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.34:732][264]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.34:751][265]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.19.34:751][265]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.19.34:751][265]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.19.34:751][265]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.19.34:751][265]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.19.34:751][265]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.19.36:578][481]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.19-12.20.06:421][496]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CB3CB43A3AC1647324AEB40159228A4D8B0134BB), compiling. 
+[2022.02.19-12.20.06:442][498]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.20.06:444][498]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2022.02.19-12.20.06:452][498]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.19-12.20.06:452][498]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.19-12.20.06:452][498]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2022.02.19-12.20.06:452][498]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.02.19-12.20.06:452][498]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.02.19-12.20.06:452][498]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.02.19-12.20.06:452][498]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.20.06:452][498]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.20.15:268][338]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: FF90EC43E5D4D6D7A4AAB8D38F1D911A41138DB9), compiling. 
+[2022.02.19-12.20.15:271][338]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9E2667B7CA52714BAD60B622751CD274D8FA1230), compiling. 
+[2022.02.19-12.20.15:273][338]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1DCCBA67F0D841AAD30EB7E4CEF6058D636B04BD), compiling. 
+[2022.02.19-12.20.15:276][338]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.20.15:276][338]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.20.15:276][338]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.20.15:331][340]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.20.15:331][340]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.20.15:331][340]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.20.15:331][340]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.20.15:331][340]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.20.15:331][340]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.22.31:961][827]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\nickl\OneDrive\Documents\3D\GameJam\Colour_gradientmask.png)
+[2022.02.19-12.22.32:005][827]LogTexture: Display: Building textures: Colour_gradientmask (OODLE_AutoDXT, 1200X1200)
+[2022.02.19-12.22.32:018][827]LogTextureFormatOodle: Display: non-RDO encode 1200 x 1200 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.19-12.22.36:011][996]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 19C09C2ECAF61B9106987A8DA8FD6128EAAB928E), compiling. 
+[2022.02.19-12.22.36:033][996]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: ED06F1AB3DF43F90EF0B5EB86AE2A148448C62AA), compiling. 
+[2022.02.19-12.22.36:033][996]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: CB6C5700EF748F24BEB1074B53088E2E7C6BA15F), compiling. 
+[2022.02.19-12.22.36:034][996]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DCDEF8116A244AEBF833B7A8B716B9FCD5EE9058), compiling. 
+[2022.02.19-12.22.36:035][996]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: EB9A130E85442CA7E7CE278AE929177CA9B09445), compiling. 
+[2022.02.19-12.22.36:036][996]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_2 in PCD3D_SM5, Default, SM5 (DDC key hash: D1F27F3A8107312CD2F21EBB91A63ED2377694F4), compiling. 
+[2022.02.19-12.22.36:037][996]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4D99B66DEA06E205F8FD39F06879767DAFBC4B7A), compiling. 
+[2022.02.19-12.22.36:038][996]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.22.36:038][996]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.22.36:039][996]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.22.36:072][997]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.22.36:072][997]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.19-12.22.36:072][997]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.19-12.22.36:072][997]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.22.36:072][997]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.19-12.22.36:072][997]LogShaderCompilers: Display: Total job queries 2034, among them cache hits 1768 (86.92%)
+[2022.02.19-12.22.36:072][997]LogShaderCompilers: Display: Tracking 258 distinct input hashes that result in 103 distinct outputs (39.92%)
+[2022.02.19-12.22.36:072][997]LogShaderCompilers: Display: RAM used: 0.50 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2022.02.19-12.22.36:072][997]LogShaderCompilers: Display: ================================================
+[2022.02.19-12.22.36:072][997]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.19-12.22.36:072][997]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.19-12.22.36:072][997]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.22.36:072][997]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.19-12.22.36:072][997]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(1)
+[2022.02.19-12.22.36:072][997]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.22.39:649][405]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2534CE337C61DE8D0F585F02C8627758A720FD03), compiling. 
+[2022.02.19-12.22.39:651][405]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E7F24F9D632C34F762ADDF399783846DC22EBBC9), compiling. 
+[2022.02.19-12.22.39:655][405]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.19-12.22.39:655][405]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(2)
+[2022.02.19-12.22.39:655][405]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.22.39:663][406]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.22.39:672][407]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.22.39:672][407]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.02.19-12.22.39:672][407]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.02.19-12.22.39:672][407]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.02.19-12.22.39:672][407]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.22.39:681][407]LogShaderCompilers: Display: Submitted 27 shader compile jobs with 'Normal' priority
+[2022.02.19-12.22.39:681][407]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2022.02.19-12.22.39:681][407]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2022.02.19-12.22.39:681][407]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2022.02.19-12.22.39:681][407]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2022.02.19-12.22.39:681][407]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2022.02.19-12.22.39:681][407]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.22.40:122][432]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.02.19-12.22.40:122][432]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.22.40:142][433]MaterialEditorStats: Texture samplers: 1/16
+[2022.02.19-12.22.40:142][433]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(2)
+[2022.02.19-12.22.40:142][433]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.22.40:190][435]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.19-12.22.40:190][435]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.22.40:207][436]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.19-12.22.40:207][436]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(2)
+[2022.02.19-12.22.40:207][436]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.22.40:348][446]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.19-12.22.40:348][446]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.22.40:557][458]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2022.02.19-12.22.40:557][458]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.22.40:557][458]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.02.19-12.22.40:557][458]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.22.40:764][471]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.02.19-12.22.40:764][471]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.22.40:987][484]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.19-12.22.40:987][484]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.22.41:635][542]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.02.19-12.22.41:635][542]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.02.19-12.22.41:635][542]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.22.41:635][542]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.19-12.22.41:635][542]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(2)
+[2022.02.19-12.22.41:635][542]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.22.48:984][402]LogMaterialEditor: Saving and Compiling material Grass_02_Mat
+[2022.02.19-12.22.49:245][402]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: CBDFB82A44D721C099704B6FC569C8D84A1A4404), compiling. 
+[2022.02.19-12.22.49:273][402]LogMaterial: Display: Missing cached shadermap for Grass_02_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: DBBF1846B762C76DCB4A227897558FA39D7103CD), compiling. 
+[2022.02.19-12.22.49:281][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.02.19-12.22.49:288][402]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.22.49:500][402]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.02.19-12.22.49:500][402]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.19-12.22.49:510][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.02.19-12.22.49:581][402]LogShaderCompilers: Display: Submitted 53 shader compile jobs with 'Normal' priority
+[2022.02.19-12.22.49:585][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Grass_02_Mat" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Materials/Grass_02_Mat.uasset" SILENT=true
+[2022.02.19-12.22.49:591][402]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 53
+[2022.02.19-12.22.49:591][402]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 46
+[2022.02.19-12.22.49:591][402]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 39
+[2022.02.19-12.22.49:591][402]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 32
+[2022.02.19-12.22.49:591][402]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2022.02.19-12.22.49:591][402]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2022.02.19-12.22.49:591][402]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2022.02.19-12.22.49:591][402]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.02.19-12.22.49:591][402]LogShaderCompilers: Display: Started 53 'Local' shader compile jobs with 'Normal' priority
+[2022.02.19-12.22.49:591][402]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Grass_02_Mat455C521048B5B6C8833B9582C93AFDF4.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Materials/Grass_02_Mat.uasset'
+[2022.02.19-12.22.49:598][402]AssetCheck: New page: Asset Save: Grass_02_Mat
+[2022.02.19-12.22.49:599][402]LogContentValidation: Display: Validating Material /Game/Materials/Grass_02_Mat.Grass_02_Mat
+[2022.02.19-12.22.49:599][402]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.19-12.22.49:599][402]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(2)
+[2022.02.19-12.22.49:599][402]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.22.49:622][403]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.19-12.22.49:622][403]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(2)
+[2022.02.19-12.22.49:622][403]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.22.51:621][533]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.19-12.22.51:621][533]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(2)
+[2022.02.19-12.22.51:621][533]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.22.52:256][589]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.02.19-12.22.52:256][589]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2022.02.19-12.22.52:256][589]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.02.19-12.22.52:256][589]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.19-12.22.52:256][589]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(2)
+[2022.02.19-12.22.52:256][589]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.19-12.22.54:918][894]LogSlate: Window 'Grass_02_Mat' being destroyed
+[2022.02.19-12.22.54:921][894]LogSlate: Window 'Grass_02_Mat' being destroyed
+[2022.02.19-12.22.54:928][894]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-12.22.54:929][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-12.23.27:290][461]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/m_SimpleVolumetricCloud_InstCOPY.m_SimpleVolumetricCloud_InstCOPY
+[2022.02.19-12.23.29:907][714]LogSlate: Window 'm_SimpleVolumetricCloud_InstCOPY' being destroyed
+[2022.02.19-12.23.29:910][714]LogSlate: Window 'm_SimpleVolumetricCloud_InstCOPY' being destroyed
+[2022.02.19-12.23.29:917][714]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-12.23.29:917][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-12.23.32:868][928]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Grass_02_Mat9B92EB5B4F79567A30B6CC84F43D7C92.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Materials/Model_Materials/Grass_02_Mat.uasset'
+[2022.02.19-12.23.32:881][928]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Grass_MATD89998674F94A60570590E8CF54BEE9A.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Materials/Model_Materials/Grass_MAT.uasset'
+[2022.02.19-12.23.32:931][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.02.19-12.23.32:940][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.02.19-12.23.32:948][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.02.19-12.23.32:952][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.02.19-12.23.32:984][928]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.19-12.23.32:984][928]LogContentValidation: Display: Validating Material /Game/Materials/Model_Materials/Grass_MAT.Grass_MAT
+[2022.02.19-12.23.32:985][928]LogContentValidation: Display: Validating Material /Game/Materials/Model_Materials/Grass_02_Mat.Grass_02_Mat
+[2022.02.19-12.23.37:743][360]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprints/Environment/Grass_MESH.Grass_MESH
+[2022.02.19-12.23.41:564][753]LogStaticMesh: Building static mesh Grass_MESH...
+[2022.02.19-12.23.41:580][753]LogStaticMesh: Built static mesh [0.02s] /Game/Blueprints/Environment/Grass_MESH.Grass_MESH
+[2022.02.19-12.23.42:695][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Environment/Grass_MESH" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Blueprints/Environment/Grass_MESH.uasset" SILENT=true
+[2022.02.19-12.23.42:700][869]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Grass_MESH4AA14C9E4186D29C1F0159A26C07CF9C.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Blueprints/Environment/Grass_MESH.uasset'
+[2022.02.19-12.23.42:707][869]AssetCheck: New page: Asset Save: Grass_MESH
+[2022.02.19-12.23.42:707][869]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints/Environment/Grass_MESH.Grass_MESH
+[2022.02.19-12.23.43:735][971]LogSlate: Window 'Grass_MESH' being destroyed
+[2022.02.19-12.23.43:738][971]LogSlate: Window 'Grass_MESH' being destroyed
+[2022.02.19-12.23.43:741][971]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-12.23.43:741][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-12.23.48:962][546]LogActorFactory: Actor Factory created Grass_MESH
+[2022.02.19-12.23.49:595][609]LogActorFactory: Actor Factory created Grass_MESH
+[2022.02.19-12.23.59:297][716]LogEditorViewport: Clicking Background
+[2022.02.19-12.24.08:910][829]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprints/Environment/Grass_02_Mesh.Grass_02_Mesh
+[2022.02.19-12.24.12:984][231]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Grass_02_MeshF7F0BB254EB94C00574564BE0AAD6C02.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Blueprints/Environment/Grass_02_Mesh.uasset'
+[2022.02.19-12.24.12:991][231]AssetCheck: New page: Asset Save: Grass_02_Mesh
+[2022.02.19-12.24.12:991][231]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints/Environment/Grass_02_Mesh.Grass_02_Mesh
+[2022.02.19-12.24.13:859][323]LogSlate: Window 'Grass_02_Mesh' being destroyed
+[2022.02.19-12.24.13:862][323]LogSlate: Window 'Grass_02_Mesh' being destroyed
+[2022.02.19-12.24.13:864][323]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-12.24.13:864][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-12.24.14:656][398]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprints/Environment/Grass_MESH.Grass_MESH
+[2022.02.19-12.24.18:193][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Environment/Grass_MESH" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Blueprints/Environment/Grass_MESH.uasset" SILENT=true
+[2022.02.19-12.24.18:198][750]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Grass_MESH1593CF974C04FF112F0D9B81B9B034B9.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Blueprints/Environment/Grass_MESH.uasset'
+[2022.02.19-12.24.18:207][750]AssetCheck: New page: Asset Save: Grass_MESH
+[2022.02.19-12.24.18:207][750]LogContentValidation: Display: Validating StaticMesh /Game/Blueprints/Environment/Grass_MESH.Grass_MESH
+[2022.02.19-12.24.19:302][874]LogSlate: Window 'Grass_MESH' being destroyed
+[2022.02.19-12.24.19:305][874]LogSlate: Window 'Grass_MESH' being destroyed
+[2022.02.19-12.24.19:307][874]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-12.24.19:307][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.19-12.24.37:383][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.02.19-12.24.37:412][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/M_Level1" FILE="../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Maps/M_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.19-12.24.37:421][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.02.19-12.24.37:510][998]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/M_Level1EA66CCAC42275BFFBAB161BE55D26B4F.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Maps/M_Level1.umap'
+[2022.02.19-12.24.37:513][998]LogFileHelpers: Saving map 'M_Level1' took 0.101
+[2022.02.19-12.24.37:540][998]LogSavePackage: Moving '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Saved/Colour_gradientmask65088BD749C401A062F0DDA2566C1823.tmp' to '../../../../../../Users/nickl/OneDrive/Documents/GitHub/Workshop/Content/Textures/Grasses/Colour_gradientmask.uasset'
+[2022.02.19-12.24.37:600][998]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.19-12.24.37:600][998]LogContentValidation: Display: Validating World /Game/Maps/M_Level1.M_Level1
+[2022.02.19-12.24.37:601][998]LogContentValidation: Display: Validating Texture2D /Game/Textures/Grasses/Colour_gradientmask.Colour_gradientmask
+[2022.02.19-12.24.42:994][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.02.19-12.24.43:016][247]LogSlate: Window 'Workshop - Unreal Editor' being destroyed
+[2022.02.19-12.24.43:097][248]Cmd: QUIT_EDITOR
+[2022.02.19-12.24.43:097][248]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.02.19-12.24.43:099][248]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.02.19-12.24.43:100][248]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.02.19-12.24.43:100][248]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.02.19-12.24.43:100][248]LogAudio: Display: Audio Device unregistered from world 'M_Level1'.
+[2022.02.19-12.24.43:100][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.19-12.24.43:101][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.19-12.24.43:123][248]LogAudio: Display: Audio Device Manager Shutdown
+[2022.02.19-12.24.43:123][248]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.19-12.24.43:126][248]LogExit: Preparing to exit.
+[2022.02.19-12.24.43:133][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.02.19-12.24.43:801][248]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-12.24.43:801][248]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-12.24.43:801][248]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-12.24.43:801][248]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-12.24.43:801][248]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-12.24.43:835][248]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.19-12.24.43:835][248]LogExit: Editor shut down
+[2022.02.19-12.24.43:836][248]LogExit: Transaction tracking system shut down
+[2022.02.19-12.24.43:836][248]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.02.19-12.24.43:946][248]LogExit: Object subsystem successfully closed.
+[2022.02.19-12.24.43:959][248]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.19-12.24.43:959][248]LogShaderCompilers: Display: Total job queries 2253, among them cache hits 1903 (84.47%)
+[2022.02.19-12.24.43:959][248]LogShaderCompilers: Display: Tracking 344 distinct input hashes that result in 167 distinct outputs (48.55%)
+[2022.02.19-12.24.43:959][248]LogShaderCompilers: Display: RAM used: 0.80 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.05%
+[2022.02.19-12.24.43:959][248]LogShaderCompilers: Display: ================================================
+[2022.02.19-12.24.43:969][248]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (832)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (830)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module SceneOutliner (828)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module AddContentDialog (826)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module WidgetCarousel (825)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module EditorWidgets (822)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module StatsViewer (820)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (818)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (816)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module AutomationWorker (814)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module WaterEditor (812)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module GooglePADEditor (810)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (808)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module PlanarCut (806)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (804)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (802)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (800)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module CharacterAI (798)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (796)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (794)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module WebMMedia (792)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (790)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (788)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (786)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (784)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module SequenceRecorder (783)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (780)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (778)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (776)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (774)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (772)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (770)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (768)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (766)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (764)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (762)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (760)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module TextureAlignMode (758)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module BspMode (756)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module GeometryMode (754)
+[2022.02.19-12.24.44:000][248]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (752)
+[2022.02.19-12.24.44:001][248]LogModuleManager: Shutting down and abandoning module SmartSnapping (750)
+[2022.02.19-12.24.44:001][248]LogModuleManager: Shutting down and abandoning module SessionServices (748)
+[2022.02.19-12.24.44:001][248]LogModuleManager: Shutting down and abandoning module MeshPaint (746)
+[2022.02.19-12.24.44:001][248]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (744)
+[2022.02.19-12.24.44:001][248]LogModuleManager: Shutting down and abandoning module FoliageEdit (742)
+[2022.02.19-12.24.44:001][248]LogModuleManager: Shutting down and abandoning module LandscapeEditor (740)
+[2022.02.19-12.24.44:001][248]LogModuleManager: Shutting down and abandoning module MeshPaintMode (738)
+[2022.02.19-12.24.44:001][248]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (736)
+[2022.02.19-12.24.44:001][248]LogModuleManager: Shutting down and abandoning module ActorPickerMode (734)
+[2022.02.19-12.24.44:001][248]LogModuleManager: Shutting down and abandoning module PlacementMode (732)
+[2022.02.19-12.24.44:001][248]LogModuleManager: Shutting down and abandoning module ViewportSnapping (730)
+[2022.02.19-12.24.44:001][248]LogModuleManager: Shutting down and abandoning module ViewportInteraction (728)
+[2022.02.19-12.24.44:001][248]LogModuleManager: Shutting down and abandoning module ClothPainter (726)
+[2022.02.19-12.24.44:001][248]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (725)
+[2022.02.19-12.24.44:001][248]LogModuleManager: Shutting down and abandoning module LogVisualizer (722)
+[2022.02.19-12.24.44:001][248]LogModuleManager: Shutting down and abandoning module IntroTutorials (720)
+[2022.02.19-12.24.44:001][248]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (719)
+[2022.02.19-12.24.44:001][248]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (716)
+[2022.02.19-12.24.44:001][248]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (714)
+[2022.02.19-12.24.44:001][248]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (712)
+[2022.02.19-12.24.44:001][248]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (711)
+[2022.02.19-12.24.45:298][248]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (708)
+[2022.02.19-12.24.45:298][248]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (706)
+[2022.02.19-12.24.45:298][248]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (704)
+[2022.02.19-12.24.45:298][248]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (702)
+[2022.02.19-12.24.45:298][248]LogModuleManager: Shutting down and abandoning module TraceInsights (700)
+[2022.02.19-12.24.45:298][248]MemoryProfiler: Shutdown
+[2022.02.19-12.24.45:298][248]NetworkingProfiler: Shutdown
+[2022.02.19-12.24.45:298][248]LoadingProfiler: Shutdown
+[2022.02.19-12.24.45:298][248]TimingProfiler: Shutdown
+[2022.02.19-12.24.45:299][248]LogModuleManager: Shutting down and abandoning module TraceServices (699)
+[2022.02.19-12.24.45:299][248]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (696)
+[2022.02.19-12.24.45:299][248]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (694)
+[2022.02.19-12.24.45:299][248]LogModuleManager: Shutting down and abandoning module InputBindingEditor (692)
+[2022.02.19-12.24.45:299][248]LogModuleManager: Shutting down and abandoning module MergeActors (690)
+[2022.02.19-12.24.45:299][248]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (688)
+[2022.02.19-12.24.45:299][248]LogModuleManager: Shutting down and abandoning module LocalizationService (687)
+[2022.02.19-12.24.45:299][248]LogModuleManager: Shutting down and abandoning module HardwareTargeting (684)
+[2022.02.19-12.24.45:299][248]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (682)
+[2022.02.19-12.24.45:299][248]LogModuleManager: Shutting down and abandoning module UndoHistory (680)
+[2022.02.19-12.24.45:299][248]LogModuleManager: Shutting down and abandoning module XmlParser (678)
+[2022.02.19-12.24.45:299][248]LogModuleManager: Shutting down and abandoning module Blutility (676)
+[2022.02.19-12.24.45:299][248]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (674)
+[2022.02.19-12.24.45:299][248]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (673)
+[2022.02.19-12.24.45:299][248]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (670)
+[2022.02.19-12.24.45:299][248]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (669)
+[2022.02.19-12.24.45:299][248]LogModuleManager: Shutting down and abandoning module SettingsEditor (666)
+[2022.02.19-12.24.45:299][248]LogModuleManager: Shutting down and abandoning module ProjectLauncher (664)
+[2022.02.19-12.24.45:299][248]LogModuleManager: Shutting down and abandoning module SessionFrontend (662)
+[2022.02.19-12.24.45:299][248]LogModuleManager: Shutting down and abandoning module ProfilerClient (660)
+[2022.02.19-12.24.45:299][248]LogModuleManager: Shutting down and abandoning module DeviceManager (658)
+[2022.02.19-12.24.45:299][248]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (657)
+[2022.02.19-12.24.45:332][248]LogModuleManager: Shutting down and abandoning module AutomationController (654)
+[2022.02.19-12.24.45:332][248]LogModuleManager: Shutting down and abandoning module AutomationWindow (652)
+[2022.02.19-12.24.45:332][248]LogModuleManager: Shutting down and abandoning module Layers (650)
+[2022.02.19-12.24.45:332][248]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (648)
+[2022.02.19-12.24.45:332][248]LogModuleManager: Shutting down and abandoning module DetailCustomizations (646)
+[2022.02.19-12.24.45:332][248]LogModuleManager: Shutting down and abandoning module PackagesDialog (644)
+[2022.02.19-12.24.45:332][248]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (642)
+[2022.02.19-12.24.45:332][248]LogModuleManager: Shutting down and abandoning module Persona (640)
+[2022.02.19-12.24.45:332][248]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (639)
+[2022.02.19-12.24.45:332][248]LogModuleManager: Shutting down and abandoning module AnimGraph (637)
+[2022.02.19-12.24.45:332][248]LogModuleManager: Shutting down and abandoning module Kismet (634)
+[2022.02.19-12.24.45:332][248]LogModuleManager: Shutting down and abandoning module KismetWidgets (633)
+[2022.02.19-12.24.45:332][248]LogModuleManager: Shutting down and abandoning module GraphEditor (630)
+[2022.02.19-12.24.45:332][248]LogModuleManager: Shutting down and abandoning module StructViewer (628)
+[2022.02.19-12.24.45:332][248]LogModuleManager: Shutting down and abandoning module ClassViewer (626)
+[2022.02.19-12.24.45:332][248]LogModuleManager: Shutting down and abandoning module Toolbox (624)
+[2022.02.19-12.24.45:332][248]LogModuleManager: Shutting down and abandoning module ModuleUI (622)
+[2022.02.19-12.24.45:332][248]LogModuleManager: Shutting down and abandoning module OutputLog (620)
+[2022.02.19-12.24.45:333][248]LogModuleManager: Shutting down and abandoning module GammaUI (618)
+[2022.02.19-12.24.45:333][248]LogModuleManager: Shutting down and abandoning module Documentation (616)
+[2022.02.19-12.24.45:333][248]LogModuleManager: Shutting down and abandoning module LiveCoding (614)
+[2022.02.19-12.24.45:333][248]LogModuleManager: Shutting down and abandoning module LevelSequence (612)
+[2022.02.19-12.24.45:333][248]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (610)
+[2022.02.19-12.24.45:333][248]LogModuleManager: Shutting down and abandoning module MovieScene (608)
+[2022.02.19-12.24.45:333][248]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (606)
+[2022.02.19-12.24.45:333][248]LogModuleManager: Shutting down and abandoning module LauncherPlatform (604)
+[2022.02.19-12.24.45:333][248]LogModuleManager: Shutting down and abandoning module AnalyticsET (602)
+[2022.02.19-12.24.45:333][248]LogModuleManager: Shutting down and abandoning module PortalServices (600)
+[2022.02.19-12.24.45:333][248]LogModuleManager: Shutting down and abandoning module PortalRpc (598)
+[2022.02.19-12.24.45:333][248]LogModuleManager: Shutting down and abandoning module MessagingRpc (596)
+[2022.02.19-12.24.45:333][248]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (594)
+[2022.02.19-12.24.45:333][248]LogModuleManager: Shutting down and abandoning module AudioMixerCore (593)
+[2022.02.19-12.24.45:333][248]LogModuleManager: Shutting down and abandoning module AIModule (590)
+[2022.02.19-12.24.45:333][248]LogModuleManager: Shutting down and abandoning module GameplayDebugger (589)
+[2022.02.19-12.24.45:333][248]LogModuleManager: Shutting down and abandoning module AITestSuite (587)
+[2022.02.19-12.24.45:333][248]LogModuleManager: Shutting down and abandoning module NavigationSystem (585)
+[2022.02.19-12.24.45:333][248]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (582)
+[2022.02.19-12.24.45:336][248]LogModuleManager: Shutting down and abandoning module ProfilerService (580)
+[2022.02.19-12.24.45:497][248]LogModuleManager: Shutting down and abandoning module TaskGraph (578)
+[2022.02.19-12.24.45:497][248]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (576)
+[2022.02.19-12.24.45:497][248]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (574)
+[2022.02.19-12.24.45:497][248]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (572)
+[2022.02.19-12.24.45:497][248]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (570)
+[2022.02.19-12.24.45:497][248]LogModuleManager: Shutting down and abandoning module CollectionManager (569)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module SynthesisEditor (566)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module Synthesis (564)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (562)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (560)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (558)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module ScreenshotTools (556)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module GooglePAD (554)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module EditableMesh (552)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (550)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module CableComponent (548)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module AudioCapture (546)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (545)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module AssetTags (542)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (540)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (538)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module AppleImageUtils (536)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module AndroidPermission (534)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (532)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (530)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (528)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module MotoSynth (526)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (524)
+[2022.02.19-12.24.45:498][248]LogOpenImageDenoise: OIDN shutting down
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module LandmassEditor (522)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module Landmass (520)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module MeshConversion (518)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module DynamicMesh (516)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (514)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module GeometricObjects (512)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (510)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (509)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (506)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (504)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (502)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (500)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module ImgMedia (498)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (496)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module ChaosNiagara (494)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module FractureEditor (492)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (491)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (488)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module BackChannel (486)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (484)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module AutomationUtils (482)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module AlembicImporter (480)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module AlembicLibrary (479)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module GeometryCache (478)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (477)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module MediaCompositing (472)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module TemplateSequence (470)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (468)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (466)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (464)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (462)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (460)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (458)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (456)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module UObjectPlugin (454)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (452)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (450)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module PluginUtils (448)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (446)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (444)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module GitSourceControl (442)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module SourceControl (441)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (438)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (436)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (434)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (432)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (430)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module PluginBrowser (428)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (426)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module CurveEditorTools (424)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (422)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module CryptoKeys (420)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (418)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (416)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (414)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (412)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (410)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (408)
+[2022.02.19-12.24.45:498][248]LogModuleManager: Shutting down and abandoning module Paper2DEditor (406)
+[2022.02.19-12.24.45:499][248]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (404)
+[2022.02.19-12.24.45:499][248]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (402)
+[2022.02.19-12.24.45:499][248]LogModuleManager: Shutting down and abandoning module Workshop (400)
+[2022.02.19-12.24.45:499][248]LogModuleManager: Shutting down and abandoning module SoundFields (398)
+[2022.02.19-12.24.45:499][248]LogModuleManager: Shutting down and abandoning module SignificanceManager (396)
+[2022.02.19-12.24.45:499][248]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (394)
+[2022.02.19-12.24.45:499][248]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (392)
+[2022.02.19-12.24.45:499][248]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (390)
+[2022.02.19-12.24.45:499][248]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (386)
+[2022.02.19-12.24.45:499][248]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (384)
+[2022.02.19-12.24.45:499][248]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (382)
+[2022.02.19-12.24.45:499][248]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (380)
+[2022.02.19-12.24.45:499][248]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (378)
+[2022.02.19-12.24.45:499][248]LogModuleManager: Shutting down and abandoning module UdpMessaging (376)
+[2022.02.19-12.24.45:599][248]LogModuleManager: Shutting down and abandoning module TcpMessaging (374)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module ActorSequence (372)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (370)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (368)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (366)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (364)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (362)
+[2022.02.19-12.24.45:699][248]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (360)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (358)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (356)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (354)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module MagicLeapController (352)
+[2022.02.19-12.24.45:699][248]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (350)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module MagicLeapAR (348)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module AugmentedReality (347)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (344)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (342)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module Niagara (340)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module SignalProcessing (339)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module NiagaraEditor (337)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module NiagaraCore (334)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module AnimationSharing (332)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (330)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (328)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module FacialAnimation (326)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module DataValidation (324)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (322)
+[2022.02.19-12.24.45:699][248]LogModuleManager: Shutting down and abandoning module LevelEditor (321)
+[2022.02.19-12.24.45:700][248]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (320)
+[2022.02.19-12.24.45:700][248]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (318)
+[2022.02.19-12.24.45:700][248]LogModuleManager: Shutting down and abandoning module MainFrame (316)
+[2022.02.19-12.24.45:700][248]LogModuleManager: Shutting down and abandoning module HotReload (315)
+[2022.02.19-12.24.45:749][248]LogModuleManager: Shutting down and abandoning module ToolMenus (311)
+[2022.02.19-12.24.45:749][248]LogModuleManager: Shutting down and abandoning module ContentBrowser (309)
+[2022.02.19-12.24.45:749][248]LogModuleManager: Shutting down and abandoning module ContentBrowserData (308)
+[2022.02.19-12.24.45:749][248]LogModuleManager: Shutting down and abandoning module TreeMap (305)
+[2022.02.19-12.24.45:749][248]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (302)
+[2022.02.19-12.24.45:749][248]LogModuleManager: Shutting down and abandoning module GameplayCameras (300)
+[2022.02.19-12.24.45:749][248]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (298)
+[2022.02.19-12.24.45:749][248]LogModuleManager: Shutting down and abandoning module Paper2D (296)
+[2022.02.19-12.24.45:749][248]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (294)
+[2022.02.19-12.24.45:751][248]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (292)
+[2022.02.19-12.24.45:751][248]LogModuleManager: Shutting down and abandoning module BlueprintMaterialTextureNodes (290)
+[2022.02.19-12.24.45:751][248]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (288)
+[2022.02.19-12.24.45:751][248]LogModuleManager: Shutting down and abandoning module PacketHandler (286)
+[2022.02.19-12.24.45:751][248]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (284)
+[2022.02.19-12.24.45:751][248]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (282)
+[2022.02.19-12.24.45:751][248]LogModuleManager: Shutting down and abandoning module MediaAssets (280)
+[2022.02.19-12.24.45:751][248]LogModuleManager: Shutting down and abandoning module Overlay (278)
+[2022.02.19-12.24.45:751][248]LogModuleManager: Shutting down and abandoning module OverlayEditor (277)
+[2022.02.19-12.24.45:751][248]LogModuleManager: Shutting down and abandoning module VREditor (274)
+[2022.02.19-12.24.45:751][248]LogModuleManager: Shutting down and abandoning module StringTableEditor (272)
+[2022.02.19-12.24.45:751][248]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (270)
+[2022.02.19-12.24.45:751][248]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (268)
+[2022.02.19-12.24.45:751][248]LogModuleManager: Shutting down and abandoning module FunctionalTesting (266)
+[2022.02.19-12.24.45:751][248]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (264)
+[2022.02.19-12.24.45:751][248]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (263)
+[2022.02.19-12.24.45:751][248]LogModuleManager: Shutting down and abandoning module UMG (260)
+[2022.02.19-12.24.45:751][248]LogModuleManager: Shutting down and abandoning module UMGEditor (259)
+[2022.02.19-12.24.45:751][248]LogModuleManager: Shutting down and abandoning module MessageLog (257)
+[2022.02.19-12.24.45:751][248]LogModuleManager: Shutting down and abandoning module SlateReflector (252)
+[2022.02.19-12.24.45:751][248]LogModuleManager: Shutting down and abandoning module Slate (250)
+[2022.02.19-12.24.45:751][248]LogModuleManager: Shutting down and abandoning module SlateCore (248)
+[2022.02.19-12.24.45:752][248]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (246)
+[2022.02.19-12.24.45:752][248]LogModuleManager: Shutting down and abandoning module UnrealEd (244)
+[2022.02.19-12.24.45:752][248]LogModuleManager: Shutting down and abandoning module MRMesh (242)
+[2022.02.19-12.24.45:752][248]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (240)
+[2022.02.19-12.24.45:752][248]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (238)
+[2022.02.19-12.24.45:752][248]LogModuleManager: Shutting down and abandoning module XAudio2 (236)
+[2022.02.19-12.24.45:752][248]LogModuleManager: Shutting down and abandoning module Networking (234)
+[2022.02.19-12.24.45:752][248]LogModuleManager: Shutting down and abandoning module Core (232)
+[2022.02.19-12.24.45:752][248]LogModuleManager: Shutting down and abandoning module MaterialEditor (230)
+[2022.02.19-12.24.45:752][248]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2022.02.19-12.24.45:752][248]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2022.02.19-12.24.45:752][248]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2022.02.19-12.24.45:752][248]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (183)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (181)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (179)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (177)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (175)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (173)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (171)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module ImageWrapper (170)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (167)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (165)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (163)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (161)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (159)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (157)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (155)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (153)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (151)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (149)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (147)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (145)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (143)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (141)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (139)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (137)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (135)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (133)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (131)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (129)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module Messaging (127)
+[2022.02.19-12.24.45:753][248]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (125)
+[2022.02.19-12.24.45:754][248]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (123)
+[2022.02.19-12.24.45:756][248]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (121)
+[2022.02.19-12.24.45:756][248]LogModuleManager: Shutting down and abandoning module D3D11RHI (118)
+[2022.02.19-12.24.45:756][248]LogModuleManager: Shutting down and abandoning module InputCore (116)
+[2022.02.19-12.24.45:756][248]LogModuleManager: Shutting down and abandoning module Settings (114)
+[2022.02.19-12.24.45:756][248]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (112)
+[2022.02.19-12.24.45:756][248]LogModuleManager: Shutting down and abandoning module PhysXCooking (110)
+[2022.02.19-12.24.45:756][248]LogModuleManager: Shutting down and abandoning module Chaos (108)
+[2022.02.19-12.24.45:756][248]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (106)
+[2022.02.19-12.24.45:756][248]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (105)
+[2022.02.19-12.24.45:756][248]LogModuleManager: Shutting down and abandoning module AVEncoder (104)
+[2022.02.19-12.24.45:756][248]LogModuleManager: Shutting down and abandoning module Water (100)
+[2022.02.19-12.24.45:756][248]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.02.19-12.24.45:756][248]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.02.19-12.24.45:756][248]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2022.02.19-12.24.45:756][248]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.02.19-12.24.45:756][248]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.02.19-12.24.45:757][248]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.02.19-12.24.45:757][248]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.02.19-12.24.45:764][248]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.02.19-12.24.45:764][248]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.02.19-12.24.45:764][248]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B61ED3565-4360-19C1-E16F-298044DC997D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=87e8690e44bbc091c47a39bbd9e806ca%7C388c9f60c3e24bd980941fc97d0f3deb%7C460f034f-6b10-4c1a-b456-ea61459505e4&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.02.19-12.24.45:764][248]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.02.19-12.24.45:792][248]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.02.19-12.24.45:793][248]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (74)
+[2022.02.19-12.24.45:793][248]LogModuleManager: Shutting down and abandoning module ChaosCloth (72)
+[2022.02.19-12.24.45:793][248]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2022.02.19-12.24.45:795][248]LogModuleManager: Shutting down and abandoning module Media (69)
+[2022.02.19-12.24.45:795][248]LogModuleManager: Shutting down and abandoning module MediaInfo (68)
+[2022.02.19-12.24.45:795][248]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2022.02.19-12.24.45:795][248]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2022.02.19-12.24.45:795][248]LogModuleManager: Shutting down and abandoning module PixWinPlugin (60)
+[2022.02.19-12.24.45:795][248]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2022.02.19-12.24.45:795][248]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2022.02.19-12.24.45:795][248]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.02.19-12.24.45:795][248]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2022.02.19-12.24.45:795][248]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.02.19-12.24.45:795][248]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.02.19-12.24.45:795][248]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.02.19-12.24.45:795][248]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.02.19-12.24.45:795][248]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.02.19-12.24.45:795][248]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.02.19-12.24.45:795][248]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.02.19-12.24.45:795][248]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.02.19-12.24.45:795][248]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.02.19-12.24.45:795][248]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.02.19-12.24.45:796][248]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.02.19-12.24.45:796][248]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.02.19-12.24.45:796][248]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.02.19-12.24.45:796][248]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.02.19-12.24.45:796][248]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.02.19-12.24.45:796][248]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.02.19-12.24.45:796][248]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.02.19-12.24.45:796][248]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.02.19-12.24.45:796][248]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.02.19-12.24.45:796][248]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.02.19-12.24.45:797][248]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.02.19-12.24.45:797][248]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.02.19-12.24.45:797][248]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.02.19-12.24.45:797][248]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.02.19-12.24.45:797][248]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.02.19-12.24.45:797][248]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.02.19-12.24.45:810][248]LogD3D11RHI: Shutdown
+[2022.02.19-12.24.45:810][248]LogD3D11RHI: CleanupD3DDevice
+[2022.02.19-12.24.45:812][248]LogExit: Exiting.
+[2022.02.19-12.24.45:874][248]Log file closed, 02/19/22 12:24:45
